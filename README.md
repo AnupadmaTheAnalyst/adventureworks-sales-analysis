@@ -13,7 +13,8 @@ The dashboard provides a comprehensive view of company performance through **tim
 - **United States and Australia** accounted for **62.7%** of total profit.
 
 ## 🛠️ Tools & Features Used
-- Microsoft Excel  
+- Microsoft Excel
+- Advanced formulas-VLOOKUP, INDEX-MATCH, IFS, and logical expressions.  
 - Pivot Tables & Pivot Charts  
 - Interactive Slicers & Buttons  
 - Data Visualization & Conditional Formatting  
