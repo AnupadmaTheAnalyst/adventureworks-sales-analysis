@@ -1,6 +1,6 @@
 # adventureworks-sales-analysis
 Interactive Excel dashboard analyzing AdventureWorks sales data using Pivot Tables, Charts, Slicers, and Macros.
-# 🧾 AdventureWorks Sales Analysis (Excel Dashboard)
+# 🧾 AdventureWorks Sales Analysis (Interactive Excel Dashboard)
 
 This project showcases an **interactive sales analysis dashboard** built using the **AdventureWorks dataset**.  
 The dashboard provides a comprehensive view of company performance through **time-based trends** and **detailed product, customer, and regional insights**.
