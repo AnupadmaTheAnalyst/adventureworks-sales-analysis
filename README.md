@@ -27,5 +27,10 @@ The dashboard provides a comprehensive view of company performance through **tim
 ---
 
 ### 🖼️ Dashboard Previews
-![Time Analysis Dashboard](Dashboard_Preview.png)
-![Detail Dashboard](Detail_Dashboard_Preview.png)
+![Time Analysis Dashboard](Images/Dashboard_Preview.png)
+![Detail Dashboard](Images/Detail_Dashboard_Preview.png)
+
+## 🎥 Dashboard Demo Video
+
+Watch the demo here:  
+[AdventureWorks Sales Dashboard Demo](Video/Adventurework_Sales_Dashboard.mp4)
